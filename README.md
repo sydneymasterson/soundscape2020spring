@@ -47,14 +47,14 @@ At each stage, unless otherwise specified, upload (push) your materials to your 
 
 1. Fork this repository to create a new version you can control.
 2. This will give you an online copy, but for editing purposes you'll definitely want a local copy on your computer. [Follow the cloning instructions](https://help.github.com/articles/cloning-a-repository/) for your operating system, making sure to put the cloned folder in a place on your computer where you can easily find it.
-3. //Optional:// Because some sound files can take up a lot of space, you may want to use [Git Large File Storage](https://git-lfs.github.com/), an add-on service that lets you designate certain file extensions as worth tracking and storing off-site, rather than directly in your repository.
+3. _Optional:_ Because some sound files can take up a lot of space, you may want to use [Git Large File Storage](https://git-lfs.github.com/), an add-on service that lets you designate certain file extensions as worth tracking and storing off-site, rather than directly in your repository.
    * If you want to do this, it's pretty easy! You'll just need to install the LFS service at the command line to make it work.
    * Simply go to https://git-lfs.github.com, download, and follow the two steps on the screen!
    * Once it's set up at the command line, git-lfs will also work through GitHub Desktop.
 
 ## Parachute Prompts
 
-Not sure where to start? Try one of these options:
+As it says above, the genre, subject, and setting for this project are up to you. But if you're stuck for where to start, try one of these options:
 
-* //Day in the Life of...// Over the course of a few days, record 40 or more 5-second snippets of sound that tell us where you are and what you're doing. (The challenge will be to make at least some of these sounds different from everyone else's: parts of a particular soundscape, not a generic one.) Overlay a soundtrack that shows your energy – or the energy you'd like to have; fiction is fair game, after all – at various times of day. Human voices, including yours, are welcome!
-* //Interview for a Podcast// You know that one friend or family member who's always telling great stories? Ask them for a new one, or to re-tell one of your favorites, and this time, get it on "tape." Record more than you'll need, then go to the editing room to recreate the story in sound: boil it down to highlights, introduce your speaker and yourself, then add a background track and incidentals to round out the sonic atmosphere.
+* **Day in the Life of...** Over the course of a few days, record 40 or more 5-second snippets of sound that tell us where you are and what you're doing. (The challenge will be to make at least some of these sounds different from everyone else's: parts of a particular soundscape, not a generic one.) Overlay a soundtrack that shows your energy – or the energy you'd like to have; fiction is fair game, after all – at various times of day. Human voices, including yours, are welcome!
+* **Interview for a Podcast** You know that one friend or family member who's always telling great stories? Ask them for a new one, or to re-tell one of your favorites, and this time, get it on "tape." Record more than you'll need, then go to the editing room to recreate the story in sound: boil it down to highlights, introduce your speaker and yourself, then add a background track and incidentals to round out the sonic atmosphere.
