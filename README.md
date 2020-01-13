@@ -10,21 +10,23 @@ You don't need answers to all of these questions before getting started, but ask
 
 ### Baseline Criteria
 For a minimum grade of B, all projects for this unit must…
-* Contain at least 1 minute of original recordings by you or your classmates.
-* Contain at least one sound originally recorded by you.
-* Have three layers (tracks) of sound overlapping at least once in the file
 * Play for 2-4 minutes
+* Have three layers (tracks) of sound overlapping at least once in the file
 * Have something change from the beginning to the end of the piece
+* Export a playable ("rendered") .mp3 file
+* Contain at least one sound originally recorded by you
+* Contain at least one sound not recorded by you, but which you have permission (e.g. CC license, fair use, etc) to use
 
 
 ### Aspirational Inspirations
 To target (but not guarantee) a grade above a B, the best projects for this unit may…
-_(to be determined together on Thursday, 2019-09-12)_
+_(to be determined together on Thursday, 2020-01-23)_
 
 <!--
 Possible additional constraints
 * Use only sound effects (no speech)
 * Use at least one sound longer than 25 seconds and at least one sound shorter than 5 seconds
+* Contain at least 1 minute of original recordings by you or your classmates.
 -->
 
 
