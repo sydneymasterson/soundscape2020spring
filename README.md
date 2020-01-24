@@ -7,27 +7,32 @@ As you start planning your composition, consider: in what place (physical, virtu
 You don't need answers to all of these questions before getting started, but asking them early and returning to them often could help you get a sense of the soundscape you want to make.
 
 ## Generative constraints
+_(as determined together on Thursday, 2020-01-23)_
 
 ### Baseline Criteria
 For a minimum grade of B, all projects for this unit must…
 * Play for 2-4 minutes
-* Have three layers (tracks) of sound overlapping at least once in the file
-* Have something change from the beginning to the end of the piece
-* Export a playable ("rendered") .mp3 file
 * Contain at least one sound originally recorded by you
 * Contain at least one sound not recorded by you, but which you have permission (e.g. CC license, fair use, etc) to use
+* Have three layers (tracks) of sound overlapping at least once in the file
+* Have something change from the beginning to the end of the piece
+* Meet deadlines and requirements from the chart below (see: citation, reflection, project title in README)
+* Export a playable ("rendered") .mp3 file
 
 
 ### Aspirational Inspirations
 To target (but not guarantee) a grade above a B, the best projects for this unit may…
-_(to be determined together on Thursday, 2020-01-23)_
+* Use relative volume and other effects to signal distance
+* Use left/right pan to create a sense of (locations in) space
+* Use clear speech, if speech is used
+* Have a clear organizational scheme you can articulate
+  - e.g. Transition seamlessly from clip to clip
+  - e.g. Use sharp cuts to delineate scenes
+* Show evidence that audience interpretation matches what you intended
+* Show off how many sounds you can overlap without losing focus
+* Have an emotional or intellectual intention that you can articulate
+* Use Audacity effects that are new to you
 
-<!--
-Possible additional constraints
-* Use only sound effects (no speech)
-* Use at least one sound longer than 25 seconds and at least one sound shorter than 5 seconds
-* Contain at least 1 minute of original recordings by you or your classmates.
--->
 
 
 ## Deadlines and products
